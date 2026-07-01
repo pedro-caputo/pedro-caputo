@@ -7,7 +7,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## Sobre mim
 
 Sou estudante de Ciência da Computação e formado como Técnico em Design Gráfico. Atualmente atuo como Jovem Aprendiz no Itaú e utilizo este GitHub para documentar minha evolução técnica através de projetos práticos.
 
@@ -17,7 +17,7 @@ Meu objetivo é construir uma carreira sólida em tecnologia, com foco em segura
 
 ---
 
-## 🎯 Atualmente estudando
+## Atualmente estudando
 
 - 🔐 Cybersecurity
 - 🤖 Inteligência Artificial Generativa
@@ -29,7 +29,7 @@ Meu objetivo é construir uma carreira sólida em tecnologia, com foco em segura
 
 ---
 
-## 🛠️ Tecnologias e Ferramentas
+## Tecnologias e Ferramentas
 
 <p>
 
