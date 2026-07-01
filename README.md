@@ -64,5 +64,5 @@ Meu objetivo é construir soluções que resolvam problemas reais enquanto evolu
 
 ## 📫 Contato
 
-- LinkedIn *(adicionaremos depois)*
-- E-mail *(adicionaremos depois)*
+- LinkedIn *(https://www.linkedin.com/in/pedro-caputo/)*
+- E-mail *(pedrocaputo.h@gmail.com)*
