@@ -1,61 +1,104 @@
-# Olá! 👋 Eu sou Pedro H. Caputo
+<h1 align="center">Olá, eu sou Pedro H. Caputo 👋</h1>
 
-🎓 Estudante de Ciência da Computação
-
-💼 Jovem Aprendiz no Itaú
-
-🤖 Interessado em Inteligência Artificial, Automação e Python
-
-🔐 Estudando Cibersegurança
+<p align="center">
+  <strong>Computer Science Student</strong><br>
+  Python • Cybersecurity • Artificial Intelligence • Automation
+</p>
 
 ---
 
 ## 🚀 Sobre mim
 
-Sou estudante de Ciência da Computação e técnico em Design Gráfico, apaixonado por tecnologia e aprendizado contínuo.
+Sou estudante de Ciência da Computação e formado como Técnico em Design Gráfico. Atualmente atuo como Jovem Aprendiz no Itaú e utilizo este GitHub para documentar minha evolução técnica através de projetos práticos.
 
-Atualmente busco desenvolver projetos voltados para Inteligência Artificial, automação de processos e segurança da informação, sempre priorizando aplicações práticas e documentação de qualidade.
+Tenho grande interesse por **Cybersecurity**, **Inteligência Artificial**, **Automação com Python** e **Análise de Dados**, buscando sempre transformar conhecimento em projetos que resolvam problemas reais.
 
-Meu objetivo é construir soluções que resolvam problemas reais enquanto evoluo tecnicamente como desenvolvedor.
+Meu objetivo é construir uma carreira sólida em tecnologia, com foco em segurança da informação e desenvolvimento de soluções inteligentes para ambientes corporativos.
 
 ---
 
 ## 🎯 Atualmente estudando
 
-- Python
-- Inteligência Artificial Generativa
-- Agentes de IA
-- Automação de Processos
-- Cibersegurança
-- Git & GitHub
+- 🔐 Cybersecurity
+- 🤖 Inteligência Artificial Generativa
+- 🧠 Agentes de IA
+- 🐍 Python
+- 🗄️ SQL
+- 🌐 Fundamentos de Redes
+- ⚙️ Git & GitHub
 
 ---
 
-## 🛠️ Tecnologias
+## 🛠️ Tecnologias e Ferramentas
 
-> Em breve esta seção será substituída por ícones e badges.
+<p>
 
-- Python
-- Git
-- GitHub
-- Linux
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,mysql,vscode" />
+
+</p>
+
+### Ferramentas de Segurança
+
 - Kali Linux
-- SQL
-- Markdown
+- Nmap
+- Medusa
+- VirtualBox
+- Metasploitable 2
 
 ---
 
-## 📌 Projetos em destaque
+## 📌 Projetos em Destaque
 
-- 🔐 Brute Force Lab — Kali Linux + Medusa
-- 🐍 Malware Simulado em Python
-- 🧠 RAM Crisis & AI Impact
+### 🔐 Brute Force Lab — Kali Linux + Medusa
+
+Laboratório prático simulando ataques de força bruta em ambiente isolado utilizando Kali Linux, Medusa e Metasploitable 2, incluindo documentação técnica e estratégias de mitigação.
+
+---
+
+### 🐍 Malware Simulado em Python
+
+Projeto educacional desenvolvido para compreender conceitos relacionados ao funcionamento de malwares em ambiente controlado.
+
+---
+
+### 🤖 RAM Crisis & AI Impact
+
+Estudo técnico sobre os impactos da Inteligência Artificial no consumo de memória RAM utilizando NotebookLM.
+
+---
+
+## 📖 Minha filosofia de aprendizado
+
+Acredito que tecnologia se aprende construindo.
+
+Por isso, procuro transformar cada curso, laboratório ou estudo em um projeto documentado, utilizando o GitHub como registro da minha evolução técnica e profissional.
+
+---
+
+## 📈 Estatísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=github_dark&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=github_dark&hide_border=true"/>
+
+</p>
 
 ---
 
 ## 📚 Atualmente
 
 - 🎓 Ciência da Computação
+- 💼 Jovem Aprendiz no Itaú
 - 📖 DIO
 - 🌐 Cisco Networking Academy
-- 💻 Estudos independentes
+- 📘 Estudos independentes
+
+---
+
+<p align="center">
+
+Construindo conhecimento através de projetos, documentação e aprendizado contínuo.
+
+</p>
