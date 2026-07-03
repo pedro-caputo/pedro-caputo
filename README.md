@@ -55,8 +55,6 @@ Estudo técnico sobre funcionamento e defesa contra ransomware e keylogging — 
 ### 🛡️ [Brute Force Lab — Kali Linux + Medusa](https://github.com/pedro-caputo/brute-force-lab-medusa)
 Laboratório prático simulando ataques de força bruta em ambiente isolado, com documentação técnica completa e estratégias de mitigação.
 
-### 🤖 [RAM Crisis & AI Impact](https://github.com/pedro-caputo/ram-crisis-ai-impact-Notebooklm)
-Estudo técnico sobre os impactos da Inteligência Artificial no consumo de memória RAM, utilizando NotebookLM.
 ---
 
 ## 📖 Minha filosofia de aprendizado
