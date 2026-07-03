@@ -49,22 +49,14 @@ Meu objetivo é construir uma carreira sólida em tecnologia, com foco em segura
 
 ## 📌 Projetos em Destaque
 
-### 🔐 Brute Force Lab — Kali Linux + Medusa
+### 🔐 [Cybersecurity Threat Analysis](https://github.com/pedro-caputo/cybersecurity-threat-analysis)
+Estudo técnico sobre funcionamento e defesa contra ransomware e keylogging — projeto de Segurança da Informação (DIO).
 
-Laboratório prático simulando ataques de força bruta em ambiente isolado utilizando Kali Linux, Medusa e Metasploitable 2, incluindo documentação técnica e estratégias de mitigação.
+### 🛡️ [Brute Force Lab — Kali Linux + Medusa](https://github.com/pedro-caputo/brute-force-lab-medusa)
+Laboratório prático simulando ataques de força bruta em ambiente isolado, com documentação técnica completa e estratégias de mitigação.
 
----
-
-### 🐍 Malware Simulado em Python
-
-Projeto educacional desenvolvido para compreender conceitos relacionados ao funcionamento de malwares em ambiente controlado.
-
----
-
-### 🤖 RAM Crisis & AI Impact
-
-Estudo técnico sobre os impactos da Inteligência Artificial no consumo de memória RAM utilizando NotebookLM.
-
+### 🤖 [RAM Crisis & AI Impact](https://github.com/pedro-caputo/ram-crisis-ai-impact-Notebooklm)
+Estudo técnico sobre os impactos da Inteligência Artificial no consumo de memória RAM, utilizando NotebookLM.
 ---
 
 ## 📖 Minha filosofia de aprendizado
