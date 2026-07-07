@@ -49,11 +49,21 @@ Meu objetivo é construir uma carreira sólida em tecnologia, com foco em segura
 
 ## 📌 Projetos em Destaque
 
-### 🔐 [Cybersecurity Threat Analysis](https://github.com/pedro-caputo/cybersecurity-threat-analysis)
+### 🔐 Segurança da Informação
+
+**[Cybersecurity Threat Analysis](https://github.com/pedro-caputo/cybersecurity-threat-analysis)**
 Estudo técnico sobre funcionamento e defesa contra ransomware e keylogging — projeto de Segurança da Informação (DIO).
 
-### 🛡️ [Brute Force Lab — Kali Linux + Medusa](https://github.com/pedro-caputo/brute-force-lab-medusa)
+**[Brute Force Lab — Kali Linux + Medusa](https://github.com/pedro-caputo/brute-force-lab-medusa)**
 Laboratório prático simulando ataques de força bruta em ambiente isolado, com documentação técnica completa e estratégias de mitigação.
+
+### 📊 Dados & Machine Learning
+
+**[Análise de Cancelamento de Clientes (Churn)](https://github.com/pedro-caputo/analise-cancelamento-clientes)**
+EDA, segmentação de risco e modelo de regressão logística (89% de acurácia) para identificar os principais fatores de cancelamento em base de +50 mil clientes.
+
+**[Automação de Cadastro de Produtos](https://github.com/pedro-caputo/automacao-cadastro-produtos)**
+Sistema Flask + SQLite com CRUD completo e robô de automação via Selenium para cadastro em lote de produtos a partir de CSV.ão.
 
 ---
 
